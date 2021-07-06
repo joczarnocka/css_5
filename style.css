@@ -1,0 +1,43 @@
+body{
+    background-color: sandybrown;
+}
+
+h1{
+    background-color: seagreen;
+}
+
+h2{
+    background-color: silver;
+}
+
+p#par1{
+    background-color: teal;
+}
+
+p#par2{
+    background-color: yellowgreen;
+}
+
+ol#ol1{
+    background-color: brown;
+}
+
+li#li1 {
+    color: cadetblue;
+}
+
+li#li2 {
+    color: rgb(82, 197, 82);
+}
+
+li#li3 {
+    color: rgb(207, 167, 189);
+}
+
+li#li4 {
+    color: rgb(155, 179, 116);
+}
+
+li#li5 {
+    color: rgb(204, 168, 49);
+}
